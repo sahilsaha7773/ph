@@ -38,10 +38,10 @@
     <meta property="og:image" content="https://avatars1.githubusercontent.com/u/6295529?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="fossasia/phimpme-android" /><meta property="og:url" content="https://github.com/fossasia/phimpme-android" /><meta property="og:description" content="Phimp.me - Android Photo Image Picture Editor App https://phimp.me - fossasia/phimpme-android" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzQzNzUwMzgxOmZkMTQ2Mzc1YzFkMGFhNjQ5MDJhOGEzNTRkYzYwYmY0ZjQ3MTQ5ZjUwYjlmMzAxNjlhYWEzNzgwMDAyNGI1ZTA=--2ce2279f0e465debf3fbfc0694b98107755d03b4">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzQzNzUwMzgxOjcxNzVjYzM2MzljYzExMjEwNmI1ZDJkYzIzNWE1YWI3MWM1ZWQ3ZmUxYTQwYTg5ZDYwOTljYjE3YzU3ZmE3Zjk=--9514f2f75c7f2008e313690ffb60af7a6fddf798">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="47D2:458D:357F60:793436:5C022514" data-pjax-transient>
+  <meta name="request-id" content="482B:4594:DFACFC:1B25414:5C02261D" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="47D2:458D:357F60:793436:5C022514" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="35343652" /><meta name="octolytics-actor-login" content="sahilsaha7773" /><meta name="octolytics-actor-hash" content="f214ecedc337c16a5be6d1efa6ba2764870af97a6f57daf07097c13e966163f8" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="482B:4594:DFACFC:1B25414:5C02261D" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="35343652" /><meta name="octolytics-actor-login" content="sahilsaha7773" /><meta name="octolytics-actor-hash" content="f214ecedc337c16a5be6d1efa6ba2764870af97a6f57daf07097c13e966163f8" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -71,7 +71,7 @@
     <meta name="user-login" content="sahilsaha7773">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="YzNmMTFhM2EzN2YzMjRmN2VkYjZmNmQyMGI0ZmUzOGQ0YWE2NGNkYjQ0ODgyMGE3MjdjZDc4MjRhNWEwNTk0ZHx7InJlbW90ZV9hZGRyZXNzIjoiNDIuMTEwLjIzNC4xNzkiLCJyZXF1ZXN0X2lkIjoiNDdEMjo0NThEOjM1N0Y2MDo3OTM0MzY6NUMwMjI1MTQiLCJ0aW1lc3RhbXAiOjE1NDM2NDQ0NDAsImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="YzI4YzczYjg2MTRlYWRlNmEwNDk3NmMwM2VkYTFiMzVmZmU0YjA5MDNkMDIzZDEwNzQwZTc5YTQ2NzFlYzhiZXx7InJlbW90ZV9hZGRyZXNzIjoiNDIuMTEwLjIzNC4xNzkiLCJyZXF1ZXN0X2lkIjoiNDgyQjo0NTk0OkRGQUNGQzoxQjI1NDE0OjVDMDIyNjFEIiwidGltZXN0YW1wIjoxNTQzNjQ0NzAyLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="DASHBOARD_V2_LAYOUT_OPT_IN,EXPLORE_DISCOVER_REPOSITORIES,UNIVERSE_BANNER,MARKETPLACE_PLAN_RESTRICTION_EDITOR,NOTIFY_ON_BLOCK,TIMELINE_COMMENT_UPDATES,RELATED_ISSUES,MARKETPLACE_INSIGHTS_V2">
 
@@ -156,7 +156,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=7s/MXa0jSKaf10mJNq+nPGbaMBnQFDPtV3nGqlYGpU8/syrIjqyWbQ0zccs+bxRDUuAuCCfLrZuOQZIsnY4Lqw=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=epTLX7yUKZJ/RaFDoVwOQdAmfjkk9rIzJWzfuQSCZWCr6C3Knxv3We2hmQGpnL0+5BxgKNMpLEX8VIs/zwrLhA=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -381,7 +381,7 @@
           <li><a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a></li>
           <li><a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a></li>
           <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="mh7l8GQJQGhDLAF+GkoHMIMS9fbYlULtRDHVbYdNpgDkHnHEp8J0wBWyhHwABaVLQDgUy+fnOej3xGj91uRMKQ==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="9D5gSR5dJ/0ILzoB5ZpHCzHHTdGoXRb7kojSW0fSIk+KPvR93ZYTVV6xvwP/1eVw8u2s7Jcvbf4hfW/LFnvIZg==" />
               <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
                 Sign out
               </button>
@@ -394,7 +394,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="JRmxrvz63IvtaI8SxCSQzwF8+KuyqguauA61Gmeq7mBbGSWaPzHoI7v2ChDeazK0wlYZlo3YcJ8L+wiKNgMESQ==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="PcSesww0jUDg2Mk40BLdCLTcAzIOJuvoyTneZXnu8H5DxAqHz/+56LZGTDrKXX9zd/biDzFUkO16zGP1KEcaVw==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -434,7 +434,7 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="wPNtQ4R4wZ3Uxa3987psE1fuQQRHCOsZzx0KaJ2jiuZXU+365smFKH0tAL7IJa1tUKwtUNIJTbeQA+oCGOShJA==" />      <input type="hidden" name="repository_id" id="repository_id" value="5713702" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="RsZaeNvBRLx6Vdh8xnLYJbswlTfvOQ1L4LOpkneJ4nbRZtrBuXAACdO9dT/97RlbvHL5Y3o4q+W/rUn48s7JtA==" />      <input type="hidden" name="repository_id" id="repository_id" value="5713702" class="form-control" />
 
       <details class="details-reset details-overlay select-menu float-left">
         <summary class="btn btn-sm btn-with-count select-menu-button" data-ga-click="Repository, click Watch settings, action:blob#show">
@@ -509,7 +509,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container on">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/fossasia/phimpme-android/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="0o0Ii/M4/Hq5dgyFIeNheVTq8Dy0bbW1UvYN8d/0K1OlT7g9qxuOBeFWMXyleFlWIhGMdzMyvvX0/0qvwwpbRQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/fossasia/phimpme-android/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="EH07KCGxSIUCg+hO8bcEWy5MIh6UGW6tn2gQWEnjkJdnv4ueeZI6+lqj1bd1LDx0WLdeVRNGZe05YVcGVR3ggQ==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -524,7 +524,7 @@
           1,305
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/fossasia/phimpme-android/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="XCelE0Q1XndEhRKY0w4RzBgzZ6WVPhGtiw7+3N791Ac08+JxUARaDl//wN2pIAzmxA5WxKEV9cZ9cuemO6+1lw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/fossasia/phimpme-android/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="OXd8Ur7hkP7y+pagXwhjaed/LV0KI7kf+Sij62o6mwFRozswqtCUh+mAROUlJn5DO0IcPD4IXXQPVLqRj2j6kQ==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -802,7 +802,7 @@
             <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/fossasia/phimpme-android/delete/development/docs/images/ss_3.png" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="N4IWKkFOBA5zre8Y+QpK1Q7xQAGD5M1TSwyZnbUj/iWJJgD9JTkvjcgNiFZZPobrULD1gGhvYE7l7Nx4g5JcKg==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/fossasia/phimpme-android/delete/development/docs/images/ss_3.png" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="y6JRfPePBS9pfegRL42731gzhOjlUCFTG5R3EX0FpDN1Bkerk/gurNLdj1+PuXfhBnIxaQ7bjE61dDL0S7QGPA==" />
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Delete the file in your fork of this project" data-disable-with>
             <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -849,7 +849,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.28309s from unicorn-8685494797-f9dlg">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.29339s from unicorn-7494ccfb9c-mxt57">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
